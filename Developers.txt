@@ -1,0 +1,19 @@
+Hi!
+THis is my personal A.I.assiatant 
+Personal A.I. Assiatant 
+Design and Dveloped by DHEERENDRA DIXIT.
+
+This Project is on Going 
+There are still more features are to be added.
+To make to more Advanced A.I.
+
+To add features in future are:
+1.facial recognition --done
+2.object recognition
+3.security
+4.windows automation--done
+5.gui
+etc.
+
+
+Install all modules which are used in this 
